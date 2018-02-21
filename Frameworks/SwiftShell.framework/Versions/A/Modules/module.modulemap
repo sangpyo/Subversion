@@ -1,0 +1,4 @@
+framework module SwiftShell {
+    header "SwiftShell-Swift.h"
+    requires objc
+}
